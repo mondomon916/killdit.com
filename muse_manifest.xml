@@ -1,0 +1,99 @@
+<manifest alg="2" build="30" opt="true" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="4023935739"/>
+    <file name="master_a-master.css" crc="66262779" ref="killdit:index:we:you"/>
+    <file name="killdit.css" crc="160157456" ref="killdit"/>
+    <file name="index.css" crc="4230552610" ref="index"/>
+    <file name="we.css" crc="428075948" ref="we"/>
+    <file name="you.css" crc="3997973804" ref="you"/>
+    <file name="shop.css" crc="4055378410" ref="shop"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="phone>index:phone>we:phone>you:phone>shop:phone>kickstarter:index:killdit:we:you:shop"/>
+    <file name="museutils.js" crc="3880880085" ref="phone>index:phone>we:phone>you:phone>shop:phone>kickstarter:index:killdit:we:you:shop"/>
+    <file name="webpro.js" crc="33264525" ref="phone>index:phone>we:phone>you:phone>kickstarter:index:killdit:we:you"/>
+    <file name="musewpslideshow.js" crc="272207905" ref="phone>index:phone>we:phone>you:phone>kickstarter:index:killdit:we:you"/>
+    <file name="jquery.museoverlay.js" crc="466079611" ref="phone>index:phone>we:phone>you:phone>kickstarter:index:killdit:we:you"/>
+    <file name="touchswipe.js" crc="261777990" ref="phone>index:phone>we:phone>you:phone>kickstarter:index:killdit:we:you"/>
+    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="phone>index:phone>we:phone>you:phone>shop:phone>kickstarter:index:killdit:we:you:shop"/>
+    <file name="pie.js" crc="4147615982" ref="phone>index:phone>shop:index"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="phone>index:phone>we:phone>you:phone>shop:phone>kickstarter:index:killdit:we:you:shop"/>
+    <file name="museredirect.js" crc="299715755" ref="index:we:you:shop"/>
+  </folder>
+  <folder name="images">
+    <file name="image_2.jpg" crc="75593322" ref="phone>index:phone>we:phone>you:phone>kickstarter:index:killdit:we:you"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>we:phone>you:phone>kickstarter:index:killdit:we:you"/>
+    <file name="image_1.jpg" crc="46488478" ref="phone>index:phone>we:phone>you:phone>kickstarter:index:killdit:we:you"/>
+    <file name="image_3.jpg" crc="4003837390" ref="phone>index:phone>we:phone>you:phone>kickstarter:index:killdit:we:you"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="white_killdit_splash.png" crc="536412060" ref="phone>index:phone>we:phone>you:phone>shop:phone>kickstarter:we"/>
+    <file name="u2787-9.png" crc="4259982417" ref="phone>index"/>
+    <file name="u2789-8.png" crc="504891001" ref="phone>index"/>
+    <file name="twitter.png" crc="4249123038" ref="phone>index:phone>we:phone>you:phone>shop:phone>kickstarter"/>
+    <file name="instagram.png" crc="278581599" ref="phone>index:phone>we:phone>you:phone>shop:phone>kickstarter"/>
+    <file name="facebook.png" crc="308909011" ref="phone>index:phone>we:phone>you:phone>shop:phone>kickstarter"/>
+    <file name="email.png" crc="3783794395" ref="phone>index:phone>we:phone>you:phone>shop:phone>kickstarter"/>
+    <file name="shop.png" crc="3953590087" ref="phone>shop:shop"/>
+    <file name="red_tank.jpg" crc="4122373394" ref="phone>shop"/>
+    <file name="black_tank.jpg" crc="3864836738" ref="phone>shop"/>
+    <file name="us_tank.jpg" crc="154653655" ref="phone>shop"/>
+    <file name="red_killdit_tshirt.jpg" crc="3903572842" ref="phone>shop"/>
+    <file name="u3823-6.png" crc="3974829163" ref="phone>shop"/>
+    <file name="black_killdit_tshirt.jpg" crc="137780383" ref="phone>shop"/>
+    <file name="u3825-6.png" crc="4004728180" ref="phone>shop"/>
+    <file name="gray_killdit_tshirt.jpg" crc="3987634809" ref="phone>shop"/>
+    <file name="u3827-6.png" crc="3955273716" ref="phone>shop"/>
+    <file name="u3829-6.png" crc="534392469" ref="phone>shop"/>
+    <file name="u3822-6.png" crc="4190835801" ref="phone>shop"/>
+    <file name="u3824-6.png" crc="3956525756" ref="phone>shop"/>
+    <file name="u3826-6.png" crc="57848569" ref="phone>shop"/>
+    <file name="killdit_kickstarter.png" crc="443534178" ref="phone>kickstarter"/>
+    <file name="killdit_logo.png" crc="4099332787" ref="index:killdit:we:you:shop"/>
+    <file name="u1768-6.png" crc="467028373" ref="index"/>
+    <file name="u1773-7.png" crc="4241795972" ref="index"/>
+    <file name="killdit_logo_slideshow.png" crc="8437504" ref="index"/>
+    <file name="twitter-bird-2.png" crc="108725613" ref="index:killdit:we:you:shop"/>
+    <file name="vimeo.png" crc="4214785645" ref="index:killdit:we:you:shop"/>
+    <file name="u3792-6.png" crc="108350384" ref="shop"/>
+    <file name="u3794-6.png" crc="60964699" ref="shop"/>
+    <file name="u3796-6.png" crc="98119652" ref="shop"/>
+    <file name="u3800-6.png" crc="205876435" ref="shop"/>
+    <file name="u3801-6.png" crc="3854598765" ref="shop"/>
+    <file name="u3802-8.png" crc="4033849181" ref="shop"/>
+    <file name="black_tank220x250.jpg" crc="536742892" ref="shop"/>
+    <file name="red_tank220x250.jpg" crc="3956963774" ref="shop"/>
+    <file name="us_tank220x250.jpg" crc="11991945" ref="shop"/>
+    <file name="black_killdit_tshirt216x223.jpg" crc="3872526950" ref="shop"/>
+    <file name="gray_killdit_tshirt216x223.jpg" crc="4204548327" ref="shop"/>
+    <file name="red_killdit_tshirt216x223.jpg" crc="4263647439" ref="shop"/>
+    <file name="killdit_summer_snapback.png" crc="4014030650" ref="phone>shop"/>
+    <file name="u4254-6.png" crc="4081713203" ref="phone>shop"/>
+    <file name="favicon.ico" crc="3899197557" ref="index"/>
+    <file name="instagram2.png" crc="3774885112" ref="index:killdit:we:you:shop"/>
+    <file name="facebook2.png" crc="314809864" ref="index:killdit:we:you:shop"/>
+    <file name="email2.png" crc="352149017" ref="index:killdit:we:you:shop"/>
+    <file name="u4234-6.png" crc="4081713203" ref="shop"/>
+    <file name="killdit_summer_snapback178x153.png" crc="376061341" ref="shop"/>
+    <file name="u4243-6.png" crc="287211119" ref="shop"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4277015651" ref="phone>you:phone>we:phone>kickstarter:phone>index"/>
+      <file name="shop.css" crc="4094785310" ref="phone>shop"/>
+      <file name="you.css" crc="4062303303" ref="phone>you"/>
+      <file name="we.css" crc="3954088864" ref="phone>we"/>
+      <file name="kickstarter.css" crc="4226948360" ref="phone>kickstarter"/>
+      <file name="index.css" crc="465967540" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="363372899" mt="1406138882748" redirect="true"/>
+    <file name="we.html" crc="3920655662" mt="1406298468268" redirect="true"/>
+    <file name="you.html" crc="3884076999" mt="1406138882751" redirect="true"/>
+    <file name="shop.html" crc="32592301" mt="1407427846002" redirect="true"/>
+    <file name="kickstarter.html" crc="4036565644" mt="1406208003404" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="125531197" mt="1407425301835" redirect="true"/>
+  <file name="killdit.html" crc="329284018" mt="1407425301837" redirect="true"/>
+  <file name="we.html" crc="4074075332" mt="1407425301839" redirect="true"/>
+  <file name="you.html" crc="3790891893" mt="1407425301840" redirect="true"/>
+  <file name="shop.html" crc="340252994" mt="1407427442032" redirect="true"/>
+</manifest>
